@@ -5,7 +5,7 @@ main()
 	int rno,m1,m2,m3;//roll number and three subjects marks as variables and int stands for integer
 	char sname[10];//Char stands for Character and its function is to take the input of the user
 	float tot,avg;//float is a decimal data type
-	printf("\n Enter the student id:");
+	printf("\n Enter the student id:");//print is used to print the elements that we enter
 	scanf("%d", &rno);
 	printf("\n Enter the name of the student:");
 	scanf("%s", &sname);
