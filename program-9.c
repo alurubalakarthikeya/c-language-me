@@ -1,4 +1,4 @@
-/*Electricity bill calculator*/
+/*Electricity bill calculator using C Langauge */
 #include<stdio.h>
 main()
 {
