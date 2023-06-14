@@ -1,4 +1,4 @@
-/* Swaping machine*/
+/* Swaping machine using C language*/
 #include<stdio.h>
 main()
 {
