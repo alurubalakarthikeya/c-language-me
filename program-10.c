@@ -3,7 +3,7 @@
 main()
 {
 	int pid, qty;
-	char pname[10];
+	char pname[10];//Here 10 is used as maximum limit for input
 	float price, amount,disp, discount, netbill;
 	printf("\n Enter product ID:");
 	scanf("%d", &pid);
