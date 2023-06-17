@@ -1,4 +1,4 @@
-/*Program to find the number is positive or negative*/
+/*Program to find the number is positive or negative using if else*/
 #include<stdio.h>
 main()
 {
