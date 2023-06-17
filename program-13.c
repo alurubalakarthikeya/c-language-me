@@ -1,4 +1,4 @@
-/*Biggest of the two numbers logic in a single line*/
+/*Biggest of the two numbers using logic in a single line*/
 #include<stdio.h>
 main()
 {
